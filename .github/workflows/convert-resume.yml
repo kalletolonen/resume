@@ -1,0 +1,36 @@
+name: Convert Resume to PDF
+
+# Trigger the workflow when resume.md is pushed
+on:
+  push:
+    paths:
+      - 'resume.md'
+
+jobs:
+  convert-md-to-pdf:
+    runs-on: ubuntu-latest
+    
+    steps:
+      # Check out the repository code
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        
+      # Install Pandoc and dependencies
+      - name: Install Pandoc and LaTeX
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y pandoc texlive-latex-base
+          
+      # Convert resume.md to resume.pdf
+      - name: Convert Markdown to PDF
+        run: |
+          pandoc resume.md -o resume.pdf -V geometry:margin=0.5in --pdf-engine=pdflatex
+          
+      # Commit and push the generated PDF
+      - name: Commit PDF
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add resume.pdf
+          git commit -m "Generate resume.pdf from resume.md" || echo "No changes to commit"
+          git push
