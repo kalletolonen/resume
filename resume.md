@@ -3,7 +3,7 @@
 +358 44 330 9928 | kalle.tolonen@gmail.com | [linkedin.com/in/kalletolonen](https://www.linkedin.com/in/kalletolonen) | [kalletolonen.com](https://www.kalletolonen.com)
 
 ## Summary
-Results-driven ICT Professional with a strong focus on customer needs, excellent communication and leadership abilities, and a passion for tech. Proven ability to deliver results on time and enhance customer satisfaction.
+Results-driven ICT Professional with a strong focus on customer needs, excellent communication and leadership abilities, and a passion for tech. Proven ability to deliver results on time and enhance customer satisfaction. 
 
 ---
 
