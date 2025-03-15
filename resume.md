@@ -10,23 +10,23 @@ Results-driven ICT Professional with a strong focus on customer needs, excellent
 ## Experience
 
 ### Fullstack Developer  
-**Sitowise** — Turku, Finland  
-September 2022 – Present  
+**Sitowise** - Turku, Finland  
+September 2022 - Present  
 - Software development for a SAFe customer project (GIS and asset management). Developing features used by 3000+ users and 10+ integrating systems. Starting 5/2025, coaching GIS professionals alongside development duties.
 
 ### Founder  
-**Koutsi-Softa Oy Ab** — Turku, Finland  
-June 2024 – Present
+**Koutsi-Softa Oy Ab** - Turku, Finland  
+June 2024 - Present
 - Scalable platform for client management to personal trainers and their clients. Fullstack development and DevOps for a SaaS product targeting fitness professionals.
 
 ### Self-employed  
-**Blake Consulting** — Finland  
-January 2020 – Present  
+**Blake Consulting** - Finland  
+January 2020 - Present  
 - Managing 6 event restaurants with 100+ staff simultaneously, overseeing budgeting, permitting, and execution while achieving top customer satisfaction ratings. 
 
 ### Service Coordinator  
-**Prime Minister's Office** — Helsinki, Finland  
-January 2019 – January 2020  
+**Prime Minister's Office** - Helsinki, Finland  
+January 2019 - January 2020  
 - Led coordination of high-profile events during Finland’s EU presidency, managing staff, security, and contractors to deliver seamless, high-quality service. 
 
 ---
