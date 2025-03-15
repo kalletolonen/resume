@@ -37,7 +37,7 @@ January 2019 – January 2020
 **Haaga-Helia University of Applied Sciences** — Helsinki, Finland  
 2023  
 - Software development & digital services, GPA: 4.53/5.0  
-\
+\ 
 | **Skill/Tech**       | **Details**                                      |
 |----------------------|--------------------------------------------------|
 | People Skills        | Leadership, Collaboration, Analytical Problem Solving & Project Management |
