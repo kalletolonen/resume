@@ -13,16 +13,16 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
         
-      # Install Pandoc and a more complete LaTeX distribution
-      - name: Install Pandoc and LaTeX
+      # Install Pandoc and wkhtmltopdf
+      - name: Install Pandoc and wkhtmltopdf
         run: |
           sudo apt-get update
-          sudo apt-get install -y pandoc texlive-full
+          sudo apt-get install -y pandoc wkhtmltopdf
           
       # Convert resume.md to resume.pdf
       - name: Convert Markdown to PDF
         run: |
-          pandoc resume.md -o resume.pdf -V geometry:margin=0.5in --pdf-engine=pdflatex
+          pandoc resume.md -o resume.pdf -V geometry:margin=0.5in --pdf-engine=wkhtmltopdf
           
       # Commit and push the generated PDF
       - name: Commit PDF

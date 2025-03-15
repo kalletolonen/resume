@@ -1,3 +1,3 @@
 ## Name McName
 
-This is my resume. And it's rendered as resume.pdf.
+This is my resume. And it's rendered as resume.pdf with a lightweight engine.
