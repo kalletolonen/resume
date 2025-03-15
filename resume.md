@@ -17,7 +17,7 @@ September 2022 – Present
 ### Founder  
 **Koutsi-Softa Oy Ab** — Turku, Finland  
 June 2024 – Present
-- Scalable platform for client management to personal trainers and their clients. Fullstack development, business strategy, and DevOps for a SaaS product targeting fitness professionals.
+- Scalable platform for client management to personal trainers and their clients. Fullstack development and DevOps for a SaaS product targeting fitness professionals.
 
 ### Self-employed  
 **Blake Consulting** — Finland  
