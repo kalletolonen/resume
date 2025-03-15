@@ -1,8 +1,9 @@
 ## Convert Markdown Resume/cv to a PDF
 
 Value proposition:
-1. Easy version control for CV
-2. You can, for example, link to the generated PDF from your homepage and thus always share an up-to-date version of it
+1. Easy version control for CV, can edit resume on any device
+2. You can, for example, link to the MD from your homepage and thus always share an up-to-date version of it
+3. Download a pdf-version from github
 
 Requirements on Github:
 - You need to allow for Workflow permissions -> Read and write permissions
