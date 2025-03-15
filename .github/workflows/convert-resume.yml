@@ -4,6 +4,7 @@ on:
   push:
     paths:
       - 'resume.md'
+      - 'style.css'
 
 jobs:
   convert-md-to-pdf:
