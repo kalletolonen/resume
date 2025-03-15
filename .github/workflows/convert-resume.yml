@@ -1,6 +1,5 @@
 name: Convert Resume to PDF
 
-# Trigger the workflow when resume.md is pushed
 on:
   push:
     paths:
@@ -11,15 +10,14 @@ jobs:
     runs-on: ubuntu-latest
     
     steps:
-      # Check out the repository code
       - name: Checkout repository
         uses: actions/checkout@v4
         
-      # Install Pandoc and dependencies
+      # Install Pandoc and a more complete LaTeX distribution
       - name: Install Pandoc and LaTeX
         run: |
           sudo apt-get update
-          sudo apt-get install -y pandoc texlive-latex-base
+          sudo apt-get install -y pandoc texlive-full
           
       # Convert resume.md to resume.pdf
       - name: Convert Markdown to PDF
