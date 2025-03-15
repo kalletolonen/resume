@@ -22,7 +22,7 @@ jobs:
       # Convert resume.md to resume.pdf with CSS
       - name: Convert Markdown to PDF
         run: |
-          pandoc resume.md -o resume.pdf --pdf-engine=wkhtmltopdf --css=style.css --margin-top=5mm --margin-right=5mm --margin-bottom=5mm --margin-left=5mm
+          pandoc resume.md -o resume.pdf --pdf-engine=wkhtmltopdf --css=style.css
           
       # Commit and push the generated PDF
       - name: Commit PDF
