@@ -25,7 +25,7 @@ January 2020 - Present
 - Managing 6 event restaurants with 100+ staff simultaneously, overseeing budgeting, permitting, and execution while achieving top customer satisfaction ratings. 
 
 ### Service Coordinator  
-**Prime Minister's Office** - Helsinki, Finland  
+**Prime Minister's Office** - Helsinki, Finland 
 January 2019 - January 2020  
 - Led coordination of high-profile events during Finland’s EU presidency, managing staff, security, and contractors to deliver seamless, high-quality service. 
 
