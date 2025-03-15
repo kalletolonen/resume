@@ -19,10 +19,10 @@ jobs:
           sudo apt-get update
           sudo apt-get install -y pandoc wkhtmltopdf
           
-      # Convert resume.md to resume.pdf
+      # Convert resume.md to resume.pdf with minimal margins
       - name: Convert Markdown to PDF
         run: |
-          pandoc resume.md -o resume.pdf -V geometry:margin=0.5in --pdf-engine=wkhtmltopdf
+          pandoc resume.md -o resume.pdf --pdf-engine=wkhtmltopdf --margin-top=5mm --margin-right=5mm --margin-bottom=5mm --margin-left=5mm
           
       # Commit and push the generated PDF
       - name: Commit PDF
