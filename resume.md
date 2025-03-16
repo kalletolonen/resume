@@ -30,7 +30,7 @@ January 2019 - January 2020 (Helsinki, Finland)
 
 ---
 
-## Relevant Education
+## Education
 
 **Haaga-Helia University of Applied Sciences - BBA in Information Tech** — Helsinki, Finland  
 2023  
