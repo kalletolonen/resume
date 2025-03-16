@@ -36,6 +36,9 @@ January 2019 - January 2020 (Helsinki, Finland)
 2023  
 - Software development & digital services, GPA: 4.53/5.0  
 
+**Haaga-Helia University of Applied Sciences - BBA in Hospitality Management** — Helsinki, Finland  
+2018  
+
 ---
 
 ## Skills & Tech
