@@ -12,6 +12,6 @@ Requirements on Github:
 Steps to use this minimal automation:
 1. Fork the repo/copy the contents
 2. Modify the resume.md in any way that suites your needs
-3. Add you commit
+3. Add your commit
 4. Push to your forked repo
 5. A wild resume.pdf has appeared
