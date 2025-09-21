@@ -14,7 +14,7 @@ Results-driven ICT Professional with a strong focus on customer needs, excellent
 
 **Sitowise - Fullstack Developer**   
 September 2022 - Present (Turku, Finland)  
-- Software development for a SAFe customer projects (GIS and asset management). Developing features used by 3000+ users and 10+ integrating systems. Coaching a team of GIS professionals alongside development duties.
+- Software development for a SAFe customer projects (GIS and asset management). Project example 1: Fullstack Java/Angular for a lecagy project that's used by 3000+ users and 10+ integrating systems. Project example 2: Fullstack for a Azure project written in Dotnet & React. Coaching a team of GIS professionals alongside development duties.
 
 **Koutsi-Softa Oy Ab - Founder**   
 June 2024 - Present (Turku, Finland)  
