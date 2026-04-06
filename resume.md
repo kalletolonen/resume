@@ -42,11 +42,11 @@ January 2019 - January 2020 (Helsinki, Finland)
 ---
 
 ## Skills & Tech
-* Agile Methodologies: SAFe, Scrum
+* Agile Methodologies: SAFe, Scrum, AI-first SW-development
 * People Skills: Leadership, Collaboration, & Project Management
-* Languages: Java, JavaScript, Python, Go, SQL, C#
+* Languages: Java, JavaScript, Python, Go, SQL, C#, Rust
 * Frameworks: Spring, Angular, Django, NestJS, React & React Native
 * Tools: Docker, Git, Maven, Jenkins, GitHub Actions, Robot Framework, Azure
 * Databases: Postgres, SQLite
-* Systems: Linux, Windows, GIS, Apache/Nginx
+* Systems: Linux, MacOS, Windows, GIS, Apache/Nginx
  
