@@ -6,13 +6,13 @@
 
 
 ## Summary
-Results-driven ICT Professional with a strong focus on customer needs, excellent communication and leadership abilities, and a passion for tech. Proven ability to deliver results on time and enhance customer satisfaction.
+Fullstack developer focused on GIS systems. At Sitowise since 2022: customer GIS/asset platforms (Java/Angular legacy with 3000+ users and 10+ integrations; Azure Dotnet/React), PostgreSQL/PostGIS, and coaching GIS professionals. Ships side projects with applied AI features. Turku.
 
 ---
 
 ## Experience
 
-**Sitowise - Fullstack Developer & Coach**   
+**Sitowise - Fullstack Developer & Coach · GIS**   
 September 2022 - Present (Turku, Finland)  
 - Software development for SAFe customer projects (GIS and asset management). Project example 1: Fullstack Java/Angular for a lecagy project used by 3000+ users and 10+ integrating systems. Project example 2: Fullstack for a Azure project written in Dotnet & React. Coaching a team of GIS professionals alongside development duties.
 
@@ -30,7 +30,15 @@ January 2019 - January 2020 (Helsinki, Finland)
 
 ---
 
+## Projects
+
+- Muksukartta (2026) — Finnish kids POI reachability PWA: isochrone/travel-time maps, React + Leaflet, public data; applied product AI for event parsing. Live: https://muksukartta.com
+
+---
+
 ## Education
+
+**Turku University of Applied Sciences — YAMK, Data Engineering and AI (thesis 2026; degree in progress)**
 
 **Haaga-Helia University of Applied Sciences - BBA in Information Tech** — Helsinki, Finland  
 2023  
@@ -47,6 +55,6 @@ January 2019 - January 2020 (Helsinki, Finland)
 * Languages: Java, JavaScript, Python, Go, SQL, C#, Rust
 * Frameworks: Spring, Angular, Django, NestJS, React & React Native
 * Tools: Docker, Git, Maven, Jenkins, GitHub Actions, Robot Framework, Azure
-* Databases: Postgres, SQLite
+* Databases: PostgreSQL / PostGIS, SQLite
 * Systems: Linux, MacOS, Windows, GIS, Apache/Nginx
  
