@@ -32,7 +32,7 @@ January 2019 - January 2020 (Helsinki, Finland)
 
 ## Projects
 
-- Muksukartta (2025–) — Finnish playground reachability PWA: isochrone/travel-time maps, React + Leaflet, public data; applied product AI for event parsing. Live: https://muksukartta.com
+- Muksukartta (2026) — Finnish kids POI reachability PWA: isochrone/travel-time maps, React + Leaflet, public data; applied product AI for event parsing. Live: https://muksukartta.com
 
 ---
 
