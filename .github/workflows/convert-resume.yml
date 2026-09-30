@@ -5,6 +5,7 @@ on:
     paths:
       - 'resume.md'
       - 'style.css'
+  workflow_dispatch:
 
 concurrency:
   group: convert-resume-${{ github.ref }}
