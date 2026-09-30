@@ -6,7 +6,7 @@
 
 
 ## Summary
-Fullstack developer focused on GIS systems. At Sitowise since 2022: customer GIS/asset platforms (Java/Angular legacy with 3000+ users and 10+ integrations; Azure Dotnet/React), PostgreSQL/PostGIS, and coaching GIS professionals. Ships side products (Muksukartta, maritime AIS) and applied AI features — not as a research role. Turku.
+Fullstack developer focused on GIS systems. At Sitowise since 2022: customer GIS/asset platforms (Java/Angular legacy with 3000+ users and 10+ integrations; Azure Dotnet/React), PostgreSQL/PostGIS, and coaching GIS professionals. Ships side projects with applied AI features. Turku.
 
 ---
 
