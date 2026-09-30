@@ -6,15 +6,18 @@
 
 
 ## Summary
-Fullstack developer focused on GIS systems. At Sitowise since 2022: customer GIS/asset platforms (Java/Angular legacy with 3000+ users and 10+ integrations; Azure Dotnet/React), PostgreSQL/PostGIS, and coaching GIS professionals. Ships side projects with applied AI features. Turku.
+Fullstack developer focused on GIS systems. At Sitowise since 2022: customer GIS/asset platforms (Java/Angular legacy with 3000+ users and 10+ integrations; Azure .NET/C# & React; React Native), PostgreSQL/PostGIS, and coaching GIS professionals. Ships side projects with applied AI features. Turku.
 
 ---
 
 ## Experience
 
 **Sitowise - Fullstack Developer & Coach · GIS**   
-September 2022 - Present (Turku, Finland)  
-- Software development for SAFe customer projects (GIS and asset management). Project example 1: Fullstack Java/Angular for a lecagy project used by 3000+ users and 10+ integrating systems. Project example 2: Fullstack for a Azure project written in Dotnet & React. Coaching a team of GIS professionals alongside development duties.
+September 2022 - Present (Turku, Finland)
+
+- SAFe GIS/asset platforms: Java/Angular legacy (3000+ users, 10+ integrations); Azure .NET/C# & React.
+- Offline Android GIS application (React Native).
+- Coaching GIS professionals alongside development.
 
 **Koutsi-Softa Oy Ab - Founder**   
 June 2024 - October 2025 (Turku, Finland)  
